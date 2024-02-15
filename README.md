@@ -1,3 +1,3 @@
 # GITpractice
 
-author :  Suvendu Sahoo
+author : Suvendu Sahoo(Raju)
